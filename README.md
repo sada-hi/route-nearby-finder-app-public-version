@@ -131,6 +131,10 @@ project/
 └── .env                   # 環境変数
 \`\`\`
 
+## 実行画面
+![アプリ画面](<img width="1915" height="902" alt="スクリーンショット 2026-02-03 130422" src="https://github.com/user-attachments/assets/c2accd96-cdf3-41ce-ac7b-0b58d11f07fa" />
+)
+
 ## 今後の拡張予定
 
 - 検索履歴保存
