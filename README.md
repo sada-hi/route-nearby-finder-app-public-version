@@ -132,7 +132,8 @@ project/
 \`\`\`
 
 ## 実行画面
-![アプリ画面①](https://github.com/sada-hi/route-nearby-finder-app-public-version/blob/main/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-03-11%20001826.png)
+###全体画面
+![アプリ画面①](https://github.com/sada-hi/route-nearby-finder-app-public-version/blob/main/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-03-11%20002559.png)
 
 ## 今後の拡張予定
 
